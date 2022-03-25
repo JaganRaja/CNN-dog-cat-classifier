@@ -131,3 +131,7 @@ dmypy.json
 
 # Environment
 env/
+
+#data file
+research_env/data/data.zip
+
