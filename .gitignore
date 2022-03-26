@@ -135,3 +135,18 @@ env/
 #data file
 research_env/data/data.zip
 
+# jpg images
+*.jpg
+
+#bad data
+bad_data/
+
+#tensor board logs
+logs/
+
+#.docx
+*.docx
+
+#txt
+*.txt
+
